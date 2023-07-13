@@ -38,4 +38,4 @@ This code is released under the MIT license, which permits anyone to use, modify
 
 Note:
 
-This contract is written in Solidity version 0.8.18. Make sure you have the appropriate compiler version to deploy and interact with the contract.
+Please note that this is a basic implementation of a token contract and may lack additional functionalities commonly found in more comprehensive token standards.
